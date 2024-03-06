@@ -61,3 +61,58 @@ def double(n):
 # git push --all to push all at the same time
 print("Ragav")
 print("alex")
+# git pull will get online commits
+# if u delete online, it wont delete offline.
+# git pull --rebase origin master gives the feature branch you are working on the updated code from the master
+
+
+# what is a daabase
+# special software to store data
+# Can i keep twitter DB in a laptop
+# yes but-- It is not a storage issue. If a lot of people requesting,
+# it wont be able to handle that much people
+# Where does database live?
+
+
+# Cloud
+# Renting PC
+# examples of people who give them include microsoft azure, aws, google cloud platforms, IBM cloud, Alibaba cloud
+# AWS came first and is double the size of azure
+# netflix is one of their biggest customers. since they came first, they were able to trap the client
+
+# Why use AWS
+# why not buy instead of rent
+# high initial cost
+# rent room
+# A/C
+# Power bill
+# maintenance
+# Spares
+# Generator
+
+# if your renting
+# disaster management like cyclones or tsunamis etc
+# they will not keep computers in places that are disaster proned
+
+
+# PC
+# you choose specs but rent will increase as specs get better
+# everything will be a drop down
+# charge for how much you are using
+
+# What OS in cloud
+# Linux is 250mb
+# Windows is roughly 30gb
+# It is called aplhine Linux
+# linux is free,
+# open source(if theres a security vulnerability, everybody would jump to fix it),
+# google will pay you to fix the bugs (only if it becomes big), it is secure,
+# it has a small footprint
+# its' automation. everything can be done through command prompt.
+#  some linux software include ubuntu, manjaro, linux mint, arch (everything is a command line)
+# in linux we have flavours/distribution/distros as they each solve one problem. arch has a store for useful tools
+# Manjaro looks like windows and its very user friendly
+# Kali linux is one of the very popular linux used for hacking
+
+# Scaling
+# Whenever customers grow the more you scale up
