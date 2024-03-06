@@ -53,3 +53,8 @@ def double(n):
 # git checkout -b dev creates a new branch named dev
 # when you want to merge, go to the master branch (git checkout master)
 # git merge dev
+# Merge conflict (happens when people change the same line)
+# 1. resolve it
+# 2. stage it
+# 3. commit
+# git push --set-upstream origin dev
