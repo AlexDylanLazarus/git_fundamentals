@@ -15,3 +15,4 @@ def double(n):
 
 # git commit -m "This is my first project with git"
 # to see commits you've done so far
+# git log will show this is my first project with git
