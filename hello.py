@@ -50,3 +50,6 @@ def double(n):
 # git log --graph (graph commit(s))
 # /map
 # press n to go to the next match
+# git checkout -b dev creates a new branch named dev
+# when you want to merge, go to the master branch (git checkout master)
+# git merge dev
