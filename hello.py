@@ -58,5 +58,6 @@ def double(n):
 # 2. stage it
 # 3. commit
 # git push --set-upstream origin dev
+# git push --all to push all at the same time
 print("Ragav")
 print("alex")
